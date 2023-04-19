@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="160" height="30" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="bj_4_1" tilewidth="80" tileheight="80">
+  <image source="bj_4_1.png" width="1120" height="640"/>
+ </tileset>
+ <layer name="dizhuan" width="160" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmVuOwyAMRVE3MImyufa/+1/DiA8ky8IGEoOB3iNdqU1KSuITyCMEAAAAAAAAAABgf/6Q7gEy3rXZPUDHuz47B5TxrtGuAXV412nHHE0V+G28a7VbjkxW4UsyCu967ZSceyX/TmH5u9CuB3QfRv4n0s+9u7Uc6V8a8+DfmrF2L/KuyFOodymRmn5/DP4/BJ967ZS77n0niLY/r0Hxrt/KsRj3arZlkavyd7xfyJw5K+tIyc2Zmn+fhsC/30lLHSmaf4le1/6Xsi7X91HHknMWwmndfo677TTicUxjVG8O4TPH079WvPyz6nfLddDB+iS1085hCj1f0twzCtp3fp9a41+ve410HJ7cm/RIug+xQvKvZp4qecs9ugxj9dyE+xeU75He4wCtx5VZPkusPbSqJ4U7ozHL+BeU7xH4l/ew13XIk+eWNd5RPP3LPSPW/LOaZ/l2V/Ov13jogeXY20rOtdyyXv1b3T/uoRRKaR2dj19KOym0bUvutiudg9IzgUhu7IN/9tH2ma/j712kdlKSR619vNtOOgfp/bXkqva+1uPdGvyT18/uHw/1T9tnaczzqFO6dvb2xTracS0d80iLF6v5J+FRJ/gnr+/tEfyb179/G9nD4Q==
+  </data>
+ </layer>
+ <layer name="dizhuan1" width="160" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2WESgiAQhmGO4Hg6T2DX6OjZFDPMxprCyoq+zww/CkVcv9IoBAAAAAAAAAAAAACApUE0wMP4bUAL8juP/KEF7V5L/q5NPmd5tpyYv3f/vLTHSlv6n4PYNn1P9uX2wzmMJ2u4F++8kb++TMbjeefNK39Hz7N0DO/6r7UpkD8rR8275ny9a781f5YZjGMf9VujZPwW5Py88jdW7Hel/FlfBzn+GeU+J7Rt+bPK4Z3zF5HD8vzV5tD6Piv1kL+IHLbL31Fz1I7TE20NPF2/Ts85XQMP4bce2uvc+nhuPv9qqM013U/bZq0OuWtr9exH/upsOWftvPfWpLSGFrWfg57Ttb4cj//XyJ/ev/dYe12x9uTvg/z14ao1IH99OGsNXsyAYAY=
+  </data>
+ </layer>
+ <layer name="dizhuan2" width="160" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2UlugzAAhWF2bQ/QYdNF1GHfYUMlOu07LjvmaBwlR+tDKhKybOzYSizD/0lPkSB1DLxi2lQVAAAAAAAAAAAAME07yq6yl3siAABswYVyqVwp14737CsHyqFyFDDmx0h86qpaPen1WXlRXpU35T3gZ1GeO+VeeVAeHe85UU6VM+U8cNzYDnX9+9Trl/Kt/Ci/yjLwc4EUXf9yzwHzRf/mS9d+WTuWutuqavu4ttv29xaW7fqstv7fvkicO6aj76Gtj76eDcZoh/1y7bPtx/yMdW5uXL8bMc8GNxrDTOo81uEb43i9sVax88itzj2BCOa1y3H+betN6Bpkcq07ofedbR3/JtbGEvtnMs//2DVrdO6awfmz3Qdd98KQ82977vY8f3uNrYHdsW+qf751IWTt8B3fFPpnM3Zu+g6aXXRZ571DIf1LVcra6+rhVPoX8xznE9u7uYp5np5K/0wp94WmkHuKS/8dV+z3o6n/B4n9u25KYvvXda/0/iE/+oecSnkuB4ChP7xMiKY=
+  </data>
+ </layer>
+ <layer name="dizhuan3" width="160" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0sENQFAQRdHZ0wAN0AA1oQqle2sF/C9xTvKSWc7iVgEAAAAAAADQ2lh1D1nvP/inOe1N+qOTNe0t+vudIzuz63W3tqe9TX8AAAAAAAAAAACf8ADArwd7
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="180" height="30" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="bj_3_1" tilewidth="80" tileheight="80">
+  <image source="bj_3_1.png" width="1120" height="640"/>
+ </tileset>
+ <layer name="zhuangshi02" width="180" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2DkOwjAQBdDchaVn6Vl6lho4AMslODpzACQSR4ll8570y0RO5svFNA0AAAAAAAAAQHeTyDQyi8wznwX6WkSWkVVknfks0Ncmso3sIvu8R4HeDpFj5BQ5Zz4LAPBf7D3KZG7f1b73qHXutc8tVY69x5gdq3Xu9lXf/dp7DNG9MTtW69xL2leldqiU7o3ZsZLmXqvUDuXu3qvlO3Wsu1vTvK+RSyT3WbpKvb+GuPdK6V7J827jGd/1iNwL/L7UDnV5ru1dWoo+867tXwAAADCMDw+EKJo=
+  </data>
+ </layer>
+ <layer name="dixing" width="180" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2FFug0AMRdHZQRaW/6yA/a8hPyAhlPGMwcQzj3skq2oiAW6uKG0pGMGrMcBM6BlK6BlK6BlK6BlK6BlK6BlK6BlK6BlK6BlK6BlK6BlK6BlK6BlK7u552c2Z9wGPfbvvdbg/Y1b0jNF91tlYbfL8jNnQM5RYjdIzRnN8vjiiZyjpfd5YfgzG9sT70BN2rFH//fPvvVr3xdLx1av2/42IXVt9REwkeo4/n+c67rgues7tuXVe7+utY/fuW3vN8/3Z67Cuy/v34Mxj7Zi5u4Wer/38os810lg7Zu5uufr5eY/de3x6zh9rx8zdLfRMz/Tch57nHmvHzN2/yfE7bg==
+  </data>
+ </layer>
+ <layer name="dimian" width="180" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEKgCAQBdDwet3/Pm1aRGRDWpryHgyRCxX9TcsCAAAAAAAAAAAAAAAwr7RXZL0oGJU8M5KoT8szM5FnoKeUKeaUu2/3XiZ3ZsfzjJ5v7qV2zigfbxTjapVl+om+2afjpWvm5j+P3b3X+qKH/b13lqxfujf/FAAAaG8Dqw0G1Q==
+  </data>
+ </layer>
+ <layer name="dixingzhuangshi" width="180" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2VsSgyAMQFFW0q7DbsDuf0X1hxmbEhqVZ7xnxh9HTYBA0YYAAAAAAAAAAAAAjG/ZjlfvJIBC1u14J85T5/BEq3NgdI/tePZOAgDwQ+6VWa8xs9RemfdBeML7IAD0xV4ZnrBPxmxyNcs+GbNhDYYnrMH3wLp1D/Kd19u4x/axbh135XuIVke1v7HIuJ7GfcS52eL/5lo1E3PfP38J323KrR8txmMft8f3ybMxLfdZ2qadL933qXHOxbgS33pvzCl1vbVGV+W8jBGCre01alCLdTQHS7+m5vwIWvxOyRja2Jd8bmpM4vWl4h/J8V9uZ8ha0vojN7+s81nytL+Zwcj93TM3GXvkfgJK+gBtJCZW
+  </data>
+ </layer>
+ <layer name="dimianzhuangshi" width="180" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt120KhCAUBVC3UIvMbbT0CSYZEauZJinqHPBHH/TE9GYhAAAAAAAAAAAAAAAA3FecGwDX1E2tP7sTAPAAXfh8d4fgX+kp8ncd38fjqR26mbV11Gp9HbF/zp9RmyPTtXEpM2rzaCjO9+YZXF65bnP9nAO1rEn5sLdmqpfqbynvOTpbW+6Patn4ba62FMPvtf8dk6WxWPse2bcAAMA+LzlhI3E=
+  </data>
+ </layer>
+ <layer name="zhuangshi01" width="180" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1kkKgDAQBEAPbneXV/n/9zhnUVAhDMYq6GsyhNBJ0wAAAAAAAAAAAAAAAAAAAEdtpMseglR9ZIiM2YNUZMseoJC3feGOwXdk9NcUmSNLZE3Y/0qpP9Lddf/cnWdnVOvbCgAAwHM7FYMBow==
+  </data>
+ </layer>
+</map>

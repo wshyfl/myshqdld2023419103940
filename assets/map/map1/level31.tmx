@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="145" height="30" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="bj_4_1" tilewidth="80" tileheight="80">
+  <image source="bj_4_1.png" width="1120" height="640"/>
+ </tileset>
+ <layer name="dizhuan" width="145" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl9sNwjAMACMWYDsWoPvPwA8RIsK1E7t5cSf5o1GIcX1N05QAAAAAAAAAAAAAAAAAAAD24r5QwLyMdgOH9mC0Hzi0B2d90661cfgfcAgimNWhmxAwJ5EO/er32Zj2nzgn1fN4hzYWTYRDR/ru92EYy9fS2jM7JO2V0Xumlqc1l2Xdnnt/6UptlC5J8yJrlvyVKPNoNUX14KrvWGtvtDqe6XMvLZEpxz3+nJ3JPGtotM6vDavr0rzamq3PV2sdtUj7xdXvGI9D1j26dX708xJRs3WdiHyrfN9E92u2iK7bukbkPe7hkue8MrrHI/zx1G79vTdPb5e0nD3fG7OE997N6FCNS9Zzw+4eXO1PZjWHLHWO7sHK0QoOtccL8V5EfA==
+  </data>
+ </layer>
+ <layer name="dizhuan1" width="145" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2FEKgCAMAFBPa9fo6AXRp6CRNvM9EP9kczrElAAAAAAAAAAAAABgXvkc2zXvH4cCEFJO43pkr55cWndkbqNFyC1CDCOtlm9UT/rIm7VzDtrdNautmz2GNbjr9OIf6B9qekTpjdH69gCYwQGPpBvG
+  </data>
+ </layer>
+ <layer name="dizhuan2" width="145" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt18tOAjEYhuEuTMToDchCl7JVdIEuPMQtHlhxEr00L9VvYkgmtTCdk/8U3if5EpIpnX9opy3OAQAAAAAAAAAAC3PrApAs5g4AAAAAdNOxcmJdBJJ2qvStizB2qPSUI+tCEnWhDJSpFxQbOfe9jnUtlm6UmWt+Do2VF+VVeVPelUkD/aKcg8h2z16QnmzcLpUrZahcB9rUfS/z6+a5t3bWmUOh9fhOn/Mp2eWfftd9+/1W7bvLqjxfNmbZXnCvPCiPypNypuTHeqEslQ9lpXwqX1vuX7euKtq+xz6eHyzemdD7u+l6mVr9a1XHM/S9VOeF1ZntVr9VPqE2MeP8D6W2rsvPE7O3x54321S0ZmR2ff/vsqI5tI97K5q36Zy/be9nzu22mP+DthUCv34AI/txGg==
+  </data>
+ </layer>
+ <layer name="dizhuan3" width="145" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENwkAUREEHlsAFAM4xtEADFAO4/5wNiRz636EZ6eWb7DAAAAAAAAAAAAAAANCq50Y9eqV3+qS1eAv8k8dGe/r9OH06pGOaqocUGqsHADTulM7pkubiLfTpmpZ0S/fiLQDQgi8dywdH
+  </data>
+ </layer>
+</map>

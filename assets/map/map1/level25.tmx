@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="100" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="bj_3_1" tilewidth="80" tileheight="80">
+  <image source="bj_3_1.png" width="1120" height="640"/>
+ </tileset>
+ <layer name="dixing" width="40" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt11EKgzAQAFFv4MF6//tIQUGWRBMXzQRmYH/LY6NtuixmZmZmZmZmZhZb96GmL5e+XPpy6ctF9q1haP1Nv3309ef55tKXS9/zjnf27CMZzzbiDmfwRSPNR99ftJF9pP2Vnj3SDuO9hXaPKe2OdMb6cp2ftfhuUHz0/el73gy+Wd6PknNkV2dLMOrLpS/XTL54L6X56Puj+UpnWfuPNMLYsruRO9SnT5++t2y9vi+NLb8dI39Daq4rM8FHeQZn9NXupyN8vbs7hmz7ynh1prX5ynf3zLX43jLefff2+FqMrZ/tOA5vNmwVg0E=
+  </data>
+ </layer>
+ <layer name="dimian" width="40" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2D0OwjAMQOGIGakjP1fiGtz/DLRiqaJEbUnbPIv3SZk6JMSObZGSJEmSJEmS5t7ZkiRJ/y2fDagzwm1c996HCOzaef/WvKLmJY33tB25tkSKZ+8aswb1Psk5SPaqLCJCjJfmvSjzIEWeb+T8i4DYQwjvNpqpZgypXl+G1L+ulM5V+nb0GfaqsYR6/RjXs+P+JaSasiVGhHjOEesgMd9yzlJtKHm3ZS52hm5De9dTD6HkYRS0GEaW3yVpptGyX/oBqYecuf/a39tSX46+0zW94qw3vJRDrd/3Fq221WLds//V/sftWU+cn74u8CWp7gM8NzFX
+  </data>
+ </layer>
+ <layer name="dixingzhuangshi" width="40" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0csJgDAMAFAn0Tl0Ad1/InsplFJNehN8D3Io5EuXBQAAAAAAAAAAAAAAAAAA/msvcTTvtcQ2UZ/Nr3Oy+TXvLHEl+rY1/U2ZXZ7mjPaN+kd9o1nRzW3/0S59/eyfzta95UW3fM0NSGkKKA==
+  </data>
+ </layer>
+ <layer name="dimianzhuangshi" width="40" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzEEKwDAIBEC/kDyy+UaeXiEUREpPPc7AguJiBAAAAAAAAAAAAAAAAAAA/O/KrJLc98yMnGvmS/fpx7nv2q2/e6ff+y/g2w2MFwwB
+  </data>
+ </layer>
+ <layer name="zhuangshi01" width="40" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2DcOwjAARmEPtJ1yAcpO2SkzbQYOQDiFj84bGB2GCGQL3ie9xUPyb44SgiRJkiRJkiRJkiSpFFe65R7xRkWP3CMkSfoh3PuR+z/m3lGHez9WBe+TJEnSZ/hdKn3HJZT9z/ce/Ocr/bsxTWhKs8xbUua0oCWtMm9JWdOGtrTLuKNF7cT5gY50ovPrrENd6jV8177mvE8DGtKo4bMlleUJRSYPPw==
+  </data>
+ </layer>
+</map>

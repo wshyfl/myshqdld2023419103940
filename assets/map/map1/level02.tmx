@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="20" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="map_1" tilewidth="80" tileheight="80">
+  <image source="map_1.png" width="640" height="640"/>
+ </tileset>
+ <layer name="zhuangshi02" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1LsOgkAQhWFeALVRabw0XhrRBvD9n8xTb7GJxcwh8H/JX22xMMls0wAAAOBfrdqordqZv2WJ3PPdq4M6qs5w/9K553tSZ3VRV8P9cxC5Y+753tRdPdSzOHO/LVkid6w23wwv1au3+hRn7rclS+SO1eabYVCjmtS3OHO/LVkid6w2Xzf325LFvWMua/nvOe9YpLX+NwAAAACUfrdXDPE=
+  </data>
+ </layer>
+ <layer name="dixing" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKgFAMRMGPneD9z2tjIUIqg4lhBl4bxBXXAgAAAGCSPSjjFrPYd7boX/Bl5Kjesfu+3Z/vqXq3P+973Mq6qdpvxL79eyPz5nZV/T4kSYo6AU70Gi0=
+  </data>
+ </layer>
+ <layer name="dixingzhuangshi" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1lEOwiAMgOFdQeeL7tFrzLt5dFnikoYUqMAiXf4vaWIMIIOudpoAAAAAAABwNg/xeWlY5966EbjQkiPwZQ3xUiJ8/5bjlsJ4bV48Nl4TfVjvcHMJcf3GXFhX1vt9XmnOqG7/3oCB9r7I+0pFy53IWq/l0cjvrNz7s8N6NfWqVBePPr8jf1fLvT3XvOWKpD3XxnKWcQ9sPf+ReudUnueeZaT91+hZM70q9fXW/59UDcj1G5a6kestvdQWj37p6QHU+wC+kysp
+  </data>
+ </layer>
+ <layer name="dimian" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEKACAIAEHp/4/uBR6KPKQz4DUwYSMAAACAaVYyL94C/pW1oXJ4w9/24pZnKvqie7N25Y47z1DRAD0BoKMNoLQA+Q==
+  </data>
+ </layer>
+ <layer name="dimianzhuangshi" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1tEKgCAMhWGv9Z3q1Xr0ghIOw2mUN8P/gzGwIYh0KiUAAAAAALCa8vTcWPsqj0cABLJdtd/90PVinmvpbJHemq2Febw7Q0x/v8sr8XJoBpt5dX+9Hy/j6mz0d9Oez8t6nY16VgC+UR5qVrzJgF6u2v34dwQARHACqRMVTw==
+  </data>
+ </layer>
+ <layer name="zhuangshi01" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1TkOgDAMBMAU4fgK/P+BmCI9KFYi0Iy0rbVyYZcCAAAAAO8dkbNzRo0sCV0ARuu9X2tki+w5daZ7uo/2OzJ+CPBNf7t/AAC3CzVuAT8=
+  </data>
+ </layer>
+</map>

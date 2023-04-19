@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="140" height="20" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="map_1" tilewidth="80" tileheight="80">
+  <image source="map_1.png" width="640" height="640"/>
+ </tileset>
+ <layer name="zhuangshi02" width="140" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1DkOwkAMheFcAEIDpGFpIDQsDcv9T8ajGGkKKJBtGUb/J73Wiu14ug4AAAAAAAC/aKJMlV6ZJX+LVUu9ePKcy1xZKEtlMNbK1lIvnjznslLWykbZGmvVMm49qhcvWe+f51x2yl4ZlYOxVi3j1qN6Kaz7znr/POdyVE7KWbkYa9Uybj2ql8K676z3z3MuV+Wm3JWHsVYt+tbfieqlsO47YyYv0XPxEH3rGaz7bnEmXv7hn/6Wdd8tzgSfsW8AAHw9AWJyE2k=
+  </data>
+ </layer>
+ <layer name="dixing" width="140" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEKhTAMRVGnghvS/S9MJ0IQUxOLNm3ugTcTieH9n2kCAABAdrMS4A59gQd9gQd9gceiBLhDX3LT7ot2Z+hLDloHnvqyHtkMz4/gaRee31VU1nnf9qX0nh73VdJzX6yz1XZAuy/anZHvGe0e1fTlj45ZevD1nNa+nHfpTa++3luvqf3uv3Yief9f6EucRNzJldaX1nNmjNR6FhI/UutZSPxIrWfJmB3FTiEb
+  </data>
+ </layer>
+ <layer name="dixingzhuangshi" width="140" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1m0KgCAMgOFdofJPddmOXhFBSOmspn28D0gEYiPnpggAAAAAnNeXDgDAZ1BPkMpF3oE95Am0yJV/axPnc48BFtNZGLRzU8/Zm4RqAnfYfdU0am80RSMqz3lPXGPdq4/WD+V2JXa57uSe3LGM8ehbmlow95BO7Pd17VV+bLnqU6nvWriz72vWess9I5bDuf9bbk+MCdc8cU+3MeXsa4DWCE9GBi4=
+  </data>
+ </layer>
+ <layer name="dimian" width="140" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEKwCAMBEDp/x/dDxQCTRXXzkCOgRhXxwAAAAAAgDNdRfFPMlCr3s4J7yptXuboZDk5/6lW/Elv+596dsvGyr19VbCzlDzPmLFztpS9UXOHAH03b+sBIw==
+  </data>
+ </layer>
+ <layer name="dimianzhuangshi" width="140" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEKwCAMBVBne//7OhUcKlra0gTfW1wyhJB8SwEAAAAAgD0cfzcACc3upi7UQCZ39vmsrV80wpJ+9m9l0Q6ZNsrup7u8ehOzOjdFZhkyJMqN1e7NMDfGrv7jKHsGEFkDZ1gBEg==
+  </data>
+ </layer>
+ <layer name="zhuangshi01" width="140" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1lEOgyAMgGEeNt1V5hn0bhx9XRYTQoooY6OE/0v6QkShUME5AAAAAAAAW7YgAEBzd87fJFqPA+jJU2KJ2qSO3vWEBO4jfZskZonHhT5andQyyh13dZ85rsE5vbfF7bFf5n80Jftfs69Jam3k/V6+46eB7mXhfs7t6Vz/q31xztkca8/Vqp2arO2ZuAZKzjVrc+qNtgZW8vjtP7L297RctcrX0Vj/nbfc+I7yWDK22mdmKl+W1hs6y/8voJUXo/kpTw==
+  </data>
+ </layer>
+</map>

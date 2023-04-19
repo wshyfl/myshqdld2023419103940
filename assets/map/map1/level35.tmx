@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="50" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="bj_4_1" tilewidth="80" tileheight="80">
+  <image source="bj_4_1.png" width="1120" height="640"/>
+ </tileset>
+ <layer name="dizhuan" width="40" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztWFsOwiAQ5AZtj+c/9z+DMZE4HfcJ9BHjJBuoUhj2xZallLL85WdlDcgdOf0av+yc1loVnreA9PLrAc61GeN4DY9fQ2S/UX4o1nwj9sqi8Wt49etkWWFeqW+tz/4X8deMjtr8VegjJ40r/x7lNwPsN5buUe/WuJm5g9dFnZay17fGV8tHOF7be0aYWw8av6th2VmK97tgdnwwsrlbQ5Yf+ys+s+96/GbnZvT9pex9RHu2YvYqeHkjYu+aWKvnPxzTo69obmnzRmqX3hiI8EPdv/B4y/puo/ywJmLwHjw/51jT3uk54yLnkIemI+xrssJYTS9s54zfIRf+TRMeE9EbIsrPWjOitwynDL8Mjx5eo/y8OvBqeZRPrGb1NwtWTuy1K9t3BF6d7eUy5sdjoucgwrMr5h/tHqDZH6XdJ3i1uqVXXFM78zg/8r1Cpfez3+4SeE8WP96nxE2rz0bqQhbrWxNjWOJ21LdlRqT7LI0f2mGDVjpPZ+TuUvZ2xLWP0h/7mscTdSVx5LlH7riqM9bjJ90daUC+UW4L9DHPWTEsxdSMWJW4LeU7/qxzwfPNKxGtn88G58pMrX8krByu+d0Z+TfCK8o3Gx/YZs68M2Sl9m7y53cPfk903NAG
+  </data>
+ </layer>
+ <layer name="dizhuan1" width="40" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztk2sKgDAMgz3D7n9Y8Z+MPbK2cWE2UFR0zdeH15U6WQUIRabT+FZzzryU+Tx1qfJ9FS2+aLW8Wr4jf1a/EW52vyNzz2qY1cqsu86N8M74I3dWfb7eXYisk8m9m4E5C+TZOlePVjnrdyeEei3JhzGgGp1h+e/uT0bGE6oq1X2Gf67ImdFzxD71vkV8LTX1cqx87znPmpWl95FCPEdsKv8Hso87+XqMSnwtxmgvLx+rZ+/cK14sWTx275K130qh2l+LVLkiVKqrmpLPp7/w3dmjV8E=
+  </data>
+ </layer>
+ <layer name="dizhuan2" width="40" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztl0sOgjAQhrvXBVtNumCFF9BEEzmH7jxKj8JROJpDYkPT9DFl+sL0SyaBDjP8lA4dGGs0GjpPxmabr3f4cuHSRwWeb0JqmFQz+Gd5fAe/tFg69bym/L1Z92wYrobU+jhjn5T598K98nXQ9K2Y6rhGYn7jIM9HNdt1trnRx03aHnCuGlaPX31cdJ0+rY2yuPZkE64+IoSOrWtFnnfKuC9+hGtUC70/pjfskGOh+Pqx0Hg5b1h9uWq0Y/HWSyl8Pfbil9eYetzQmnLNlW+9h963dv7teUpB/VaG4ntvmHeaU29qauuJcq+HHLR/MBqLvpEQfwA7amPYNc/Bx3E932ZOYGdCPAaKvgHs4s49UeuWou8KdiPE6/DK62EPQL0JqDtRWocNqDdxqlgf1JsYPPpK9p5Qb+Jq0WfTxVOLioitT5R75db+P9Ve+wJ7//LL4y2k7gUo+ZfY2nuVLXwBCYGOfQ==
+  </data>
+ </layer>
+ <layer name="dizhuan3" width="40" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzjsOglAUANG3CZVepReoaPz0KLgCSnX/C3AaEorXkmtwTjL9pCTpn7QpjVPRL3O/+jXX0Z0e1NNAz9AjSZIkKd6JKqqpCX7JOdOFrnSLXZEkaREb2tKOiuCXnD0d6Ehl8Iu0Vi960yd6RFqJL52aCW0=
+  </data>
+ </layer>
+</map>
