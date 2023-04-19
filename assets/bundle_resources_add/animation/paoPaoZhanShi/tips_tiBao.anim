@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tips_tiBao",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.25,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "tips_dk_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -100,
+                0,
+                0
+              ],
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": [
+                -6,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": [
+                -6,
+                0,
+                0
+              ],
+              "curve": [
+                0.6,
+                -0.27,
+                0.73,
+                0.04
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                -100,
+                0,
+                0
+              ],
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": 255,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.25,
+              "value": 0,
+              "curve": "cubicOut"
+            }
+          ]
+        }
+      },
+      "tips_dk_1 copy": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                80,
+                21.86,
+                0
+              ]
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": [
+                6,
+                21.86,
+                0
+              ]
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": [
+                6,
+                21.86,
+                0
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                80,
+                21.86,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": 255,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.25,
+              "value": 0,
+              "curve": "cubicOut"
+            }
+          ]
+        }
+      },
+      "tips_tiBao": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.6,
+                -0.27,
+                0.73,
+                0.04
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

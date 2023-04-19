@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ef_jingXia",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.625,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "img_t_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -5
+            },
+            {
+              "frame": 0.125,
+              "value": 5
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": -5
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": 5
+            },
+            {
+              "frame": 0.375,
+              "value": -5
+            },
+            {
+              "frame": 0.4583333333333333,
+              "value": 5
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.625,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

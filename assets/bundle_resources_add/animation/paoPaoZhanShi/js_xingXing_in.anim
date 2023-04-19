@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "js_xingXing_in",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.20833333333333334,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "js_icon_xingXing": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              },
+              "curve": "cubicInOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

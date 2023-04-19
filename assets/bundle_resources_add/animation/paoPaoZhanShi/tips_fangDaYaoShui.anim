@@ -1,0 +1,189 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tips_fangDaYaoShui",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "tips_dk_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1200,
+                16.987,
+                0
+              ],
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": [
+                -14.374,
+                16.987,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tips_dk_1 copy": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                1200,
+                -15.027,
+                0
+              ],
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": [
+                11.107,
+                -15.027,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tips_dk_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1200,
+                16.597,
+                0
+              ],
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": [
+                -13.277,
+                16.597,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tips_dk_2 copy": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                1200,
+                -14.384,
+                0
+              ],
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": [
+                11.064,
+                -14.384,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tips_fangDaYaoShui": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "tips_fangDaYaoShui/tips_fangDaYaoShui copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.2916666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2916666666666667,
+              "value": 255,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

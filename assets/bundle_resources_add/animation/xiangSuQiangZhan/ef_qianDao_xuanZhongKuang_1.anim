@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ef_qianDao_xuanZhongKuang_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "New Node": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                83.231,
+                79.791,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                83.231,
+                -70.832,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -88.498,
+                -70.832,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "New Node copy": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -90.182,
+                -73.872,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                -90.182,
+                80.589,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                82.507,
+                80.589,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
