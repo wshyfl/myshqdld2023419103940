@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pp_js_shengLi",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.125,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1010.678,
+            65.126,
+            0
+          ],
+          "curve": [
+            0.18135593220338983,
+            0.6559322033898305,
+            0.6194915254237288,
+            0.8694915254237288
+          ]
+        },
+        {
+          "frame": 0.125,
+          "value": [
+            -489.66,
+            258.096,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

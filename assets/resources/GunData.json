@@ -1,0 +1,8 @@
+[
+{"Gun_Hurt":15,"Gun_Firerate":0.12,"Gun_Bulletrate":14,"Gun_Accurate":2,"Gun_Ammo":50,"Gun_Price":0,"Gun_Explain":"连发水枪，伤害较低"},
+{"Gun_Hurt":15,"Gun_Firerate":0.115,"Gun_Bulletrate":16,"Gun_Accurate":2,"Gun_Ammo":60,"Gun_Price":200,"Gun_Explain":"改良型连发水枪，金色水泡"},
+{"Gun_Hurt":20,"Gun_Firerate":1.2,"Gun_Bulletrate":18,"Gun_Accurate":0,"Gun_Ammo":70,"Gun_Price":500,"Gun_Explain":"霰弹型水枪，瞬间发射大量水泡"},
+{"Gun_Hurt":18,"Gun_Firerate":0.11,"Gun_Bulletrate":20,"Gun_Accurate":1.5,"Gun_Ammo":100,"Gun_Price":800,"Gun_Explain":"连发水枪，拥有超大的存水量"},
+{"Gun_Hurt":15,"Gun_Firerate":0.105,"Gun_Bulletrate":20,"Gun_Accurate":1.5,"Gun_Ammo":100,"Gun_Price":1200,"Gun_Explain":"双管水枪，一次发射两发水泡"},
+{"Gun_Hurt":20,"Gun_Firerate":0.1,"Gun_Bulletrate":22,"Gun_Accurate":1.2,"Gun_Ammo":150,"Gun_Price":2000,"Gun_Explain":"最强水枪，集散射与连发为一体"}
+]

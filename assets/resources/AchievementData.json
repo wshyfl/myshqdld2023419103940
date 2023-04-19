@@ -1,0 +1,17 @@
+[
+{"nickname":"泡泡达人","displayName":"累计踢爆100名敌人","numTarget":100,"rewardNum":10},
+{"nickname":"原地爆炸","displayName":"累计踩爆50名敌人","numTarget":50,"rewardNum":10},
+{"nickname":"空中接力","displayName":"空中踢爆50名敌人","numTarget":50,"rewardNum":10},
+{"nickname":"服装收藏家","displayName":"解锁所有皮肤","numTarget":10,"rewardNum":100},
+{"nickname":"水枪大师","displayName":"角色水枪全部解锁","numTarget":6,"rewardNum":100},
+{"nickname":"好好先生","displayName":"一枪不发状态下过关","numTarget":1,"rewardNum":5},
+{"nickname":"杂技高手","displayName":"连续头顶水泡10下","numTarget":10,"rewardNum":10},
+{"nickname":"我是破坏王","displayName":"累计顶碎50块砖","numTarget":50,"rewardNum":5},
+{"nickname":"都不许动","displayName":"只将敌人全部禁锢为水泡状态下过关","numTarget":1,"rewardNum":5},
+{"nickname":"天旋地转","displayName":"蓄力泡泡眩晕敌人50次","numTarget":50,"rewardNum":5},
+{"nickname":"水花四溅","displayName":"累计将20名敌人推到水里","numTarget":20,"rewardNum":10},
+{"nickname":"精灵勇者","displayName":"第一章节收集30颗星星","numTarget":30,"rewardNum":20},
+{"nickname":"黄昏贤者","displayName":"第二章节收集30颗星星","numTarget":30,"rewardNum":20},
+{"nickname":"暗夜使者","displayName":"第三章节收集30颗星星","numTarget":30,"rewardNum":20},
+{"nickname":"霓虹行者","displayName":"第四章节收集30颗星星","numTarget":30,"rewardNum":20}
+]
