@@ -1,0 +1,18 @@
+{
+  "package": "com.sjzwb.sqdld.nearme.gamecenter",
+  "name": "水枪大乱斗",
+  "icon": "G:\\creatorProject\\paoPaoYingXiong\\shuiQiangDaLuanDou\\icon.png",
+  "versionName": "1.0.4",
+  "versionCode": "5",
+  "minPlatformVersion": "1075",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "G:\\creatorProject\\aakeys\\private.pem",
+  "certificatePath": "G:\\creatorProject\\aakeys\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

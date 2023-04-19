@@ -1,0 +1,18 @@
+{
+  "package": "com.sjzwb.sqdld.vivominigame",
+  "name": "水枪大乱斗",
+  "icon": "G:\\creatorProject\\paoPaoYingXiong\\shuiQiangDaLuanDou\\icon.png",
+  "versionName": "1.0.3",
+  "versionCode": "4",
+  "minPlatformVersion": "1093",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "G:\\creatorProject\\aakeys\\private.pem",
+  "certificatePath": "G:\\creatorProject\\aakeys\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}
