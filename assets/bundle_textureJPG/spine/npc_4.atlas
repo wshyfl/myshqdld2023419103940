@@ -1,0 +1,153 @@
+
+npc_4.png
+size: 112,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1qiang1
+  rotate: false
+  xy: 2, 327
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+1shenti
+  rotate: true
+  xy: 2, 103
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+1tou
+  rotate: false
+  xy: 2, 153
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+1toufa
+  rotate: true
+  xy: 64, 106
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+1ys1
+  rotate: true
+  xy: 79, 209
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+1ys2
+  rotate: false
+  xy: 77, 135
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+1yt
+  rotate: true
+  xy: 61, 22
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+1zs1
+  rotate: true
+  xy: 2, 26
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+1zs2
+  rotate: true
+  xy: 86, 302
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+1zt
+  rotate: true
+  xy: 61, 2
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+2qiang
+  rotate: false
+  xy: 2, 216
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: true
+  xy: 2, 53
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+2tou
+  rotate: false
+  xy: 2, 268
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+2toufa
+  rotate: true
+  xy: 64, 42
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+2ys1
+  rotate: true
+  xy: 77, 159
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+2ys2
+  rotate: false
+  xy: 77, 185
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+2zs1
+  rotate: true
+  xy: 64, 78
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+2zs2
+  rotate: true
+  xy: 86, 340
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+2zt
+  rotate: false
+  xy: 39, 16
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yanJing_hit
+  rotate: true
+  xy: 79, 234
+  size: 66, 31
+  orig: 70, 35
+  offset: 2, 2
+  index: -1
+zyt
+  rotate: true
+  xy: 2, 4
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1

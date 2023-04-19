@@ -1,0 +1,83 @@
+
+npc_6.png
+size: 79,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu1
+  rotate: false
+  xy: 2, 102
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 2, 102
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 180
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 230
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+yanJing_hit
+  rotate: false
+  xy: 2, 147
+  size: 66, 31
+  orig: 70, 35
+  offset: 2, 2
+  index: -1
+yb1
+  rotate: false
+  xy: 47, 97
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 2, 52
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+yt
+  rotate: true
+  xy: 34, 26
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 34, 47
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 2, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+zt
+  rotate: true
+  xy: 34, 5
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1

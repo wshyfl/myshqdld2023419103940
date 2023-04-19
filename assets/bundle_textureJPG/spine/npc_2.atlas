@@ -1,0 +1,83 @@
+
+npc_2.png
+size: 197,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao
+  rotate: false
+  xy: 121, 45
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 5
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+yanJing_hit
+  rotate: true
+  xy: 85, 36
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+yj1
+  rotate: false
+  xy: 121, 37
+  size: 49, 6
+  orig: 49, 6
+  offset: 0, 0
+  index: -1
+yj2
+  rotate: true
+  xy: 145, 59
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+ys1
+  rotate: true
+  xy: 85, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+ys2
+  rotate: true
+  xy: 141, 2
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+yt
+  rotate: false
+  xy: 174, 74
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+zs1
+  rotate: false
+  xy: 113, 3
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+zs2
+  rotate: false
+  xy: 167, 2
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+zt
+  rotate: false
+  xy: 174, 38
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,692 @@
+
+js_1.png
+size: 1747,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_beibao
+  rotate: false
+  xy: 1371, 623
+  size: 169, 211
+  orig: 171, 213
+  offset: 1, 1
+  index: -1
+1_biaoqing1
+  rotate: false
+  xy: 1370, 510
+  size: 125, 111
+  orig: 127, 113
+  offset: 1, 1
+  index: -1
+1_biaoqing2
+  rotate: false
+  xy: 1497, 491
+  size: 125, 111
+  orig: 125, 111
+  offset: 0, 0
+  index: -1
+1_wuqi1
+  rotate: true
+  xy: 760, 67
+  size: 208, 141
+  orig: 210, 143
+  offset: 1, 1
+  index: -1
+1_youbi1
+  rotate: false
+  xy: 1624, 520
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+1_youtui2
+  rotate: false
+  xy: 1542, 811
+  size: 29, 23
+  orig: 31, 25
+  offset: 1, 1
+  index: -1
+1_zuobi
+  rotate: false
+  xy: 1692, 307
+  size: 53, 54
+  orig: 55, 56
+  offset: 1, 1
+  index: -1
+1_zuobi2
+  rotate: true
+  xy: 1582, 409
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+1_zuotui2
+  rotate: false
+  xy: 1721, 490
+  size: 24, 28
+  orig: 26, 30
+  offset: 1, 1
+  index: -1
+js10_mianju1
+  rotate: false
+  xy: 1356, 836
+  size: 215, 197
+  orig: 303, 236
+  offset: 54, 38
+  index: -1
+js10_mianju2
+  rotate: true
+  xy: 1124, 139
+  size: 216, 69
+  orig: 230, 83
+  offset: 8, 4
+  index: -1
+js10_shenti
+  rotate: false
+  xy: 2, 656
+  size: 264, 377
+  orig: 264, 377
+  offset: 0, 0
+  index: -1
+js10_youjiao
+  rotate: true
+  xy: 1454, 189
+  size: 83, 79
+  orig: 92, 87
+  offset: 6, 4
+  index: -1
+js10_youtui1
+  rotate: false
+  xy: 1593, 222
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js10_youtui3
+  rotate: false
+  xy: 1575, 8
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js10_zuojiao
+  rotate: false
+  xy: 1391, 101
+  size: 94, 72
+  orig: 105, 82
+  offset: 6, 5
+  index: -1
+js10_zuotui1
+  rotate: false
+  xy: 1661, 51
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js10_zuotui3
+  rotate: false
+  xy: 578, 6
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js1_mianju1
+  rotate: false
+  xy: 1152, 654
+  size: 217, 176
+  orig: 303, 236
+  offset: 43, 48
+  index: -1
+js1_mianju2
+  rotate: false
+  xy: 1542, 604
+  size: 202, 63
+  orig: 230, 83
+  offset: 19, 12
+  index: -1
+js1_shenti
+  rotate: false
+  xy: 231, 277
+  size: 220, 377
+  orig: 264, 377
+  offset: 44, 0
+  index: -1
+js1_youjiao
+  rotate: false
+  xy: 1283, 173
+  size: 86, 82
+  orig: 92, 87
+  offset: 5, 3
+  index: -1
+js1_youtui1
+  rotate: true
+  xy: 227, 5
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js1_youtui3
+  rotate: false
+  xy: 1433, 274
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js1_zuojiao
+  rotate: false
+  xy: 1295, 97
+  size: 94, 74
+  orig: 105, 82
+  offset: 7, 4
+  index: -1
+js1_zuotui1
+  rotate: false
+  xy: 1440, 453
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js1_zuotui3
+  rotate: true
+  xy: 1514, 289
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js2_mianju1
+  rotate: true
+  xy: 1573, 800
+  size: 233, 172
+  orig: 303, 236
+  offset: 27, 48
+  index: -1
+js2_shenti
+  rotate: false
+  xy: 663, 277
+  size: 206, 377
+  orig: 264, 377
+  offset: 58, 0
+  index: -1
+js2_youjiao
+  rotate: false
+  xy: 999, 8
+  size: 85, 81
+  orig: 92, 87
+  offset: 6, 3
+  index: -1
+js2_youtui1
+  rotate: true
+  xy: 296, 5
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js2_youtui3
+  rotate: true
+  xy: 1572, 343
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js2_zuojiao
+  rotate: true
+  xy: 1283, 257
+  size: 98, 74
+  orig: 105, 82
+  offset: 3, 4
+  index: -1
+js2_zuotui1
+  rotate: false
+  xy: 1440, 396
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js2_zuotui3
+  rotate: true
+  xy: 1577, 291
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js3_mianju1
+  rotate: false
+  xy: 1137, 832
+  size: 217, 201
+  orig: 303, 236
+  offset: 25, 33
+  index: -1
+js3_mianju2
+  rotate: true
+  xy: 1048, 104
+  size: 226, 74
+  orig: 230, 83
+  offset: 2, 2
+  index: -1
+js3_shenti
+  rotate: true
+  xy: 2, 63
+  size: 212, 377
+  orig: 264, 377
+  offset: 52, 0
+  index: -1
+js3_youjiao
+  rotate: false
+  xy: 1161, 13
+  size: 84, 82
+  orig: 92, 87
+  offset: 6, 2
+  index: -1
+js3_youtui1
+  rotate: false
+  xy: 1324, 437
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js3_youtui3
+  rotate: true
+  xy: 1701, 378
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js3_zuojiao
+  rotate: false
+  xy: 1195, 97
+  size: 98, 74
+  orig: 105, 82
+  offset: 4, 5
+  index: -1
+js3_zuotui1
+  rotate: false
+  xy: 365, 6
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js3_zuotui3
+  rotate: false
+  xy: 1603, 159
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js4_mianju1
+  rotate: false
+  xy: 871, 506
+  size: 267, 143
+  orig: 303, 236
+  offset: 1, 48
+  index: -1
+js4_mianju2
+  rotate: false
+  xy: 1104, 357
+  size: 213, 72
+  orig: 230, 83
+  offset: 6, 6
+  index: -1
+js4_shenti
+  rotate: false
+  xy: 704, 656
+  size: 207, 377
+  orig: 264, 377
+  offset: 57, 0
+  index: -1
+js4_youjiao
+  rotate: false
+  xy: 1343, 16
+  size: 83, 79
+  orig: 92, 87
+  offset: 6, 4
+  index: -1
+js4_youtui1
+  rotate: false
+  xy: 1382, 441
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js4_youtui3
+  rotate: false
+  xy: 1509, 14
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js4_zuojiao
+  rotate: false
+  xy: 903, 17
+  size: 94, 72
+  orig: 105, 82
+  offset: 6, 5
+  index: -1
+js4_zuotui1
+  rotate: false
+  xy: 630, 12
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js4_zuotui3
+  rotate: false
+  xy: 1640, 300
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js5_mianju1
+  rotate: false
+  xy: 1542, 669
+  size: 202, 129
+  orig: 303, 236
+  offset: 58, 48
+  index: -1
+js5_mianju2
+  rotate: false
+  xy: 1152, 582
+  size: 216, 70
+  orig: 230, 83
+  offset: 5, 4
+  index: -1
+js5_shenti
+  rotate: false
+  xy: 268, 656
+  size: 221, 377
+  orig: 264, 377
+  offset: 43, 0
+  index: -1
+js5_youjiao
+  rotate: true
+  xy: 1371, 175
+  size: 84, 81
+  orig: 92, 87
+  offset: 6, 3
+  index: -1
+js5_youtui1
+  rotate: false
+  xy: 1514, 341
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js5_youtui3
+  rotate: true
+  xy: 1703, 241
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js5_zuojiao
+  rotate: false
+  xy: 1624, 444
+  size: 95, 74
+  orig: 105, 82
+  offset: 6, 5
+  index: -1
+js5_zuotui1
+  rotate: false
+  xy: 687, 12
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js5_zuotui3
+  rotate: false
+  xy: 1651, 237
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js6_mianju1
+  rotate: false
+  xy: 913, 651
+  size: 237, 163
+  orig: 303, 236
+  offset: 23, 43
+  index: -1
+js6_mianju2
+  rotate: false
+  xy: 1140, 506
+  size: 222, 74
+  orig: 230, 83
+  offset: 2, 7
+  index: -1
+js6_shenti
+  rotate: false
+  xy: 491, 656
+  size: 211, 377
+  orig: 264, 377
+  offset: 53, 0
+  index: -1
+js6_youjiao
+  rotate: true
+  xy: 1428, 16
+  size: 83, 79
+  orig: 92, 87
+  offset: 6, 4
+  index: -1
+js6_youtui1
+  rotate: false
+  xy: 1487, 120
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js6_youtui3
+  rotate: true
+  xy: 1707, 175
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js6_zuojiao
+  rotate: true
+  xy: 1086, 8
+  size: 94, 73
+  orig: 105, 82
+  offset: 6, 5
+  index: -1
+js6_zuotui1
+  rotate: false
+  xy: 744, 10
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js6_zuotui3
+  rotate: false
+  xy: 1655, 174
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js7_mianju1
+  rotate: false
+  xy: 913, 816
+  size: 222, 217
+  orig: 303, 236
+  offset: 24, 1
+  index: -1
+js7_shenti
+  rotate: false
+  xy: 453, 277
+  size: 208, 377
+  orig: 264, 377
+  offset: 56, 0
+  index: -1
+js7_youjiao
+  rotate: false
+  xy: 1497, 410
+  size: 83, 79
+  orig: 92, 87
+  offset: 6, 4
+  index: -1
+js7_youtui1
+  rotate: false
+  xy: 1535, 220
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js7_youtui3
+  rotate: true
+  xy: 1567, 85
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js7_zuojiao
+  rotate: false
+  xy: 1247, 23
+  size: 94, 72
+  orig: 105, 82
+  offset: 6, 5
+  index: -1
+js7_zuotui1
+  rotate: false
+  xy: 801, 10
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js7_zuotui3
+  rotate: false
+  xy: 422, 6
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js8_mianju1
+  rotate: false
+  xy: 871, 332
+  size: 231, 172
+  orig: 303, 236
+  offset: 22, 48
+  index: -1
+js8_mianju2
+  rotate: false
+  xy: 1104, 431
+  size: 218, 73
+  orig: 230, 83
+  offset: 3, 6
+  index: -1
+js8_shenti
+  rotate: true
+  xy: 381, 69
+  size: 206, 377
+  orig: 264, 377
+  offset: 58, 0
+  index: -1
+js8_youjiao
+  rotate: false
+  xy: 1616, 363
+  size: 83, 79
+  orig: 92, 87
+  offset: 6, 4
+  index: -1
+js8_youtui1
+  rotate: false
+  xy: 1509, 51
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js8_youtui3
+  rotate: true
+  xy: 1661, 108
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js8_zuojiao
+  rotate: false
+  xy: 1319, 357
+  size: 94, 72
+  orig: 105, 82
+  offset: 6, 6
+  index: -1
+js8_zuotui1
+  rotate: false
+  xy: 1604, 102
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js8_zuotui3
+  rotate: false
+  xy: 474, 6
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+js9_mianju1
+  rotate: true
+  xy: 903, 91
+  size: 239, 143
+  orig: 303, 236
+  offset: 63, 49
+  index: -1
+js9_mianju2
+  rotate: false
+  xy: 2, 2
+  size: 223, 59
+  orig: 230, 83
+  offset: 4, 11
+  index: -1
+js9_shenti
+  rotate: false
+  xy: 2, 277
+  size: 227, 377
+  orig: 264, 377
+  offset: 37, 0
+  index: -1
+js9_youjiao
+  rotate: true
+  xy: 1433, 311
+  size: 83, 79
+  orig: 92, 87
+  offset: 6, 4
+  index: -1
+js9_youtui1
+  rotate: false
+  xy: 1545, 151
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+js9_youtui3
+  rotate: true
+  xy: 1698, 108
+  size: 64, 35
+  orig: 66, 37
+  offset: 1, 1
+  index: -1
+js9_zuojiao
+  rotate: true
+  xy: 1359, 261
+  size: 94, 72
+  orig: 105, 82
+  offset: 6, 5
+  index: -1
+js9_zuotui1
+  rotate: false
+  xy: 1604, 45
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+js9_zuotui3
+  rotate: false
+  xy: 526, 6
+  size: 50, 61
+  orig: 53, 64
+  offset: 1, 2
+  index: -1
+yanJing_hit
+  rotate: true
+  xy: 1195, 173
+  size: 182, 86
+  orig: 182, 86
+  offset: 0, 0
+  index: -1
